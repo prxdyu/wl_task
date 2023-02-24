@@ -16,3 +16,15 @@
 .panel{
   border: none;
 }
+
+.ajay{
+  background-color: #11b98f;
+  color: white;
+}
+
+
+
+.ajay:not(.collapsed) {
+  background-color: #11b98f;
+  color: white;
+}
