@@ -5,3 +5,14 @@
   background-size:cover;
   min-height:60vh;
 }
+
+.centering{
+  padding-left: 50vh;
+  padding-right: 50vh;
+  border:0;
+
+}
+
+.panel{
+  border: none;
+}
